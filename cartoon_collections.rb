@@ -22,4 +22,3 @@ def find_the_cheese(array)
       return cheese if array.includes?(cheese) == true
 end
 end
-
