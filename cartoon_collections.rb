@@ -13,7 +13,7 @@ end
 
 def long_planeteer_calls(array)
   value = array.find{|i| i.length < 4}
-value = nil? false : true
+value = nil false : true
 end
 
 def find_the_cheese# code an argument here
